@@ -1,0 +1,47 @@
+{
+    "token": "OTU4MDAzNTQ0NTQyMjk4MjEy.YkHAUw.DRvxI982qffrRLJfRWV4t0q028M",
+    "prefix": "$",
+    "status": "Dev by ...",
+    "suburl": {
+        "https://discord.com/api/webhooks/958008023673081886/cJ4tX0wXJO159QCJB58qV7tN5lQtqq0wVz2B5EKSUlfrESmbE5DcvFe4YM_GjhKIWdVY": {
+            "url": "https://www.vinted.fr/vetements?catalog[]=76&catalog[]=267&size_id[]=207&size_id[]=206&size_id[]=208&size_id[]=209&brand_id[]=304&price_to=25&currency=EUR&order=newest_first&status[]=6&status[]=1&status[]=2",
+            "salon": "polo-lacoste"
+        },
+        "https://discord.com/api/webhooks/958008879084613682/3JgQPB91EzopvT3e_ffGYfuw27ewKUXcHT0RYFMe2qAGhidc1v-FiGHP25JytimwTHB9": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&catalog[]=79&brand_id[]=362&price_to=25.00&currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first",
+            "salon": "sweat-carhartt"
+        },
+        "https://discord.com/api/webhooks/958009170441961472/Se7v6j975356PrQU33Y7qVYY-iObRp1RRNtobgCTushuKYzZjuupDvZEl7Sy6ZYVpZM4": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&catalog[]=79&catalog[]=77&brand_id[]=362&price_to=10.00&currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first",
+            "salon": "tshirt-carhartt"
+        },
+        "https://discord.com/api/webhooks/958009610936139786/0rXZtEt11hdqKm-SDpfiPM-XZSfervHXEGYsqfR6WwFpfqUF4RV2pMVx27YItd1RFKT1": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&brand_id[]=362&price_to=25.00&currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first&catalog[]=1820",
+            "salon": "pantalon-carhartt"
+        },
+        "https://discord.com/api/webhooks/958011553305722961/nWfviAHANcVGKbgsC3SKCkf2hbbAyvlyW4Tc8wBRRc42oMqwna0rhpSdC2tgkUGuEao5": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=208&size_id[]=209&size_id[]=206&size_id[]=207&size_id[]=210&catalog[]=79&brand_id[]=94&price_to=25&currency=EUR&status[]=6&status[]=1&status[]=2",
+            "salon": "polo-tommy"
+        },
+        "https://discord.com/api/webhooks/958017775803191297/0es7DK78N1kSFOyRP08IMEAsLYCddWaM5UdbbaJ6MC8my2bMl7hu-LVQCya3Cs5tJBBk": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&brand_id[]=94&currency=EUR&status[]=6&status[]=1&status[]=2&catalog[]=77&price_to=15",
+            "salon": "tshirt-tommy"
+        },
+        "https://discord.com/api/webhooks/958019340920291389/Lt6Ro7YVKaHbxDHsOjwTpZyJ2BhUa29URl0xLSJI2HOltsQFxeTfScho2JYOAOtuGApm": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first&catalog[]=1812&brand_id[]=88&price_to=35",
+            "salon": "zip-ralph-lauren"
+        },
+        "https://discord.com/api/webhooks/958019404115877988/mfNslZEIs1K2jznvjkr55pHRycbfZhYBnEIQ-ktHhLcnKAFTx__zznTJq7ivOpvQnJLl": {
+            "url": "https://www.vinted.fr/vetements?currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first&brand_id[]=88&catalog[]=287&price_to=20",
+            "salon": "casquette-ralph-lauren"
+        },
+        "https://discord.com/api/webhooks/958019628255301632/cShLbngi2m1CwS2e_xzhi32j9Lvv6pTZjc4k2jsopLSvidLvSWGMDwb1Hg-yJrbp_8zX": {
+            "url": "https://www.vinted.fr/vetements?currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first&price_to=20&catalog[]=267&catalog[]=1811&brand_id[]=53&brand_id[]=5977&brand_id[]=283953",
+            "salon": "sweat-nike"
+        },
+        "https://discord.com/api/webhooks/958020036268810292/BsI4jjUSLdCWGg1mRJ-zw7k_Hb5GGFxP6NwPuOXvrzp5jFjkDDOGeVzuADtMZPNmsIQM": {
+            "url": "https://www.vinted.fr/vetements?currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first&price_to=15.00&brand_id[]=53&brand_id[]=5977&brand_id[]=283953&catalog[]=77",
+            "salon": "tshirt-nike"
+        }
+    }
+}
